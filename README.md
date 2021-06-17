@@ -6,7 +6,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ronald-barbosa-5478721a3/">
   <img align="left" alt="Ronald's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/ronaldbarbosa">
+<a href="https://github.com/ronaldbarbosa" target="_blank" rel="noopener noreferrer" >
   <img align="left" alt="Ronald's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://t.me/ronaldverissimo">
