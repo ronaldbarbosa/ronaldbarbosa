@@ -1,6 +1,5 @@
 ## Hello World! I'm Ronald <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 #### About me:<br> 
-- Working: Metallurgical industry :man_shrugging:<br><br>
 - Studying: Computer engineering :desktop_computer:<br><br>
 - Hobbies: History books :books: and motorcycles :motorcycle:<br><br>
 <a href="https://www.linkedin.com/in/ronald-barbosa-5478721a3/"  target="_blank">
