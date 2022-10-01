@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronald Barbosa</h1>
 <h3 align="center">Web Developer in evolution</h3>
 
-- 📫 How to reach me **ronaldverissimo@hotmail.com**
+📫 How to reach me **ronaldverissimo@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
