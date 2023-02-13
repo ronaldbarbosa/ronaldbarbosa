@@ -53,7 +53,9 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldbarbosa&layout=compact)](https://github.com/ronaldbarbosa/github-readme-stats)
 
 
 ## Connect with me  
