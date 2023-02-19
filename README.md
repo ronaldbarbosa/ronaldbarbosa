@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying at [Univesp](https://univesp.br)  
   
 
-- 🌱 I’m currently learning .NET and React  
+- 🌱 I’m currently learning .NET and ReactJS  
   
 
 <br/>  
